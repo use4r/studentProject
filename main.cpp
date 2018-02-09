@@ -1,7 +1,7 @@
 //linked list(studentProject)
 
 #include <iostream>
-#include "ex8.h"
+#include "list.h"
 
 const int ELEM = 4;
 
